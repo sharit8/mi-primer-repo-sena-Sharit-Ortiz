@@ -1,0 +1,21 @@
+# Archivos temporales del sistema 
+.DS_Store 
+Thumbs.db
+
+
+#Configuraciones de visual studio code 
+.vscode/
+*.code-workspace
+
+
+#Archivos de registros y temporales 
+*.log
+*.temporales
+*.bak
+_*
+
+
+#Archivos de ofimatica que no quiero versionar 
+*.docx
+*.xlsx
+*.pptx
